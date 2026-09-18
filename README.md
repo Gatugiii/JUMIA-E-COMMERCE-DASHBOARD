@@ -1,4 +1,5 @@
 Project Introduction and Objective
+
 After two weeks of intensive learning at LuxDev HQ, where I was introduced to different concepts, tools, and practical approaches in data analytics, I wanted to take what I had learned beyond the classroom and put it into practice.
 I realized that learning data analytics is not only about understanding formulas, functions, or visualization tools. It is also about being able to take a raw dataset, identify a problem, ask the right questions, analyze the information, and communicate findings in a way that can support decision-making.
 With this in mind, I wanted to work on a project that would challenge me to apply the skills I had gained during those two weeks. I decided to use a Jumia e-commerce product dataset because e-commerce provides an interesting environment for exploring customer behavior, product performance, pricing, discounts, ratings, and reviews.
